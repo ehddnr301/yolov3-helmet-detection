@@ -17,6 +17,9 @@ $ sudo apt-get install libhdf5-dev libc-ares-dev libeigen3-dev
 $ sudo apt-get install libatlas-base-dev libatlas3-base
 $ sudo pip3 install h5py==2.10.0
 $ sudo pip3 install -U --user six wheel mock
+$ sudo apt-get install libgtk2.0-dev
+$ pip3 install opencv-python
+$ pip3 install opencv-contrib-python
 $ wget https://github.com/Qengineering/Tensorflow-Raspberry-Pi/raw/master/tensorflow-1.15.2-cp37-cp37m-linux_armv7l.whl
 $ sudo -H pip3 install tensorflow-1.15.2-cp37-cp37m-linux_armv7l.whl
 $ sudo reboot
