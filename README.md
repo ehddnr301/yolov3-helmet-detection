@@ -36,7 +36,3 @@
   - yolov3 로는 real-time 이 라즈베리파이 환경에서는 힘들것으로 생각됩니다.
   - <img src="./img/time.png">
 
-## 해결방안
-
-- ![image](https://user-images.githubusercontent.com/54092915/120416853-cacfe680-c398-11eb-8cac-5147e8bb2884.png)
-
